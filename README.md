@@ -12,11 +12,11 @@ You win money if you get a single distinct character on a row if you choosed it.
 each character have different rarity or frequency and hence different reward multiplier 
 
 ### Default values
-CHARACTER | FREQUENCY | MULTIPLIER
-A              3          8
-B              6          4 
-C              12         2
-D              16         1
+CHARACTER | FREQUENCY | MULTIPLIER =
+A        |     3     |    8,
+B              6          4,
+C              12         2,
+D              16         1,
 
 MAX BET = 10000 and MIN BET=20
 
