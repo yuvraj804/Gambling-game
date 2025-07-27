@@ -1,6 +1,6 @@
 # Gambling-game
 
-## do not condone gambling, but if you really want to, you can do it here!
+## I do not condone gambling, but if you really want to, you can do it here!
 
 ## Mechanism
 This Gambliing game is of slot machine found in casinos.  
