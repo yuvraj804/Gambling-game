@@ -9,7 +9,7 @@ Then it will ask the number of lines, that is the number of rows from top to bot
 Then it will ask how much ypu want to bet on each line with some default lower and upper limits on each bet. 
 For example if you chose 2 lines and  $60  on  each  line  then  your  
 total bet  will  be  60x2 =120$.  
-You win money if you get a single distinct character on a row if you choosed it.
+You win money if you get a single distinct character on a row if you choosed the row.
 each character have different rarity or frequency and hence different reward multiplier 
 
 ### Default values
