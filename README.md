@@ -1,4 +1,4 @@
-# Gambling-game
+# Slot Machine 
 
 ## I do not condone gambling, but if you really want to, you can do it here!
 
